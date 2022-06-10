@@ -68,9 +68,11 @@ body, html {
     <p><a href="#about" class="w3-button w3-white w3-padding-large w3-large w3-margin-top w3-opacity w3-hover-opacity-off">Learn about Pantheon</a></p>
   </div> 
   <div class="w3-display-bottomleft w3-text-grey w3-large" style="padding:24px 48px">
-    <a href="https://www.instagram.com/pantheontechnology/" class="fa fa-instagram w3-hover-opacity"></a>
-    <a href="https://twitter.com/PantheonTechCo" class="fa fa-twitter w3-hover-opacity"></a>
-    <a href="https://www.linkedin.com/in/myles-hoult-b19706241/" class="fa fa-linkedin w3-hover-opacity"></a>
+    <a href="https://www.instagram.com/pantheontechnology/"><i class="fa fa-instagram w3-hover-opacity">  Instagram</a></i>
+      <a href="https://twitter.com/PantheonTechCo"> <i class="fa fa-twitter w3-hover-opacity"> Twitter</a></i>
+      <a href="https://www.linkedin.com/in/myles-hoult-b19706241/"><i class="fa fa-linkedin w3-hover-opacity"> - Linked In</a></i>
+      <a href="mailto:pantheontechnology2022@gmail.com"><i class="fa fa-envelope"> - Email</a></i>
+      
   </div>
 </header>
 
@@ -143,6 +145,17 @@ body, html {
         </div>
       </div>
     </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-card w3-grey">
+        <img src="Pictures/profile.png" alt="Myles" style="width:20%">
+        <div class="w3-container">
+          <h3>Deirdre Hoult</h3>
+          <p class="w3-opacity">Creative Director</p>
+          <p>When it comes to designing a pleasing website, there is no one better. She has design experience both on and off of the internet.</p>
+          <p><a class="w3-button w3-light-grey w3-block" href="mailto:pantheontechnology2022@gmail.com"><i class="fa fa-envelope"></i>Contact</a></p>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
 
@@ -172,28 +185,28 @@ body, html {
       <img src="Pictures/express-taurant.png" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="ExpressTaurant">
       <h1>Express-taurant</h1>
       <p> Express-Taurant is a one stop shop for local restaurant and cafes to create their own website from a selection of templates, from here their customers may order food to their table.</p>
-      <a class="w3-button w3-round w3-blue" href="https://gitlab.com/myles_hoult/myleshoultdissertation">GitLab</a>
+      <a class="w3-button w3-round w3-blue" href="https://gitlab.com/myles_hoult/myleshoultdissertation"><i class="fa fa-gitlab"> - GitLab</a></i>
     </div>
     <div class="w3-col l3 m6">
       <img src="Pictures/Cloud-Diagram.png" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Cloud Computing">
       <h1>Cloud Computing</h1>
       <p>This client requested a series of nodes be created, one node would be elected the leader node, and that node would be responsible for reviving any downed nodes.</p>
       <p>The nodes were collectively used for data analytics</p>
-      <a class="w3-button w3-round w3-blue" href="https://gitlab.com/myles_hoult/cloud-computing">GitLab</a>
+      <a class="w3-button w3-round w3-blue" href="https://gitlab.com/myles_hoult/cloud-computing"><i class="fa fa-gitlab"> - GitLab</a></i>
     </div>
     <div class="w3-col l3 m6">
       <img src="Pictures/Context Diagram.png" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Distributed and embedded systems">
       <h1>Distributed and embedded systems</h1>
       <p>For this project, I worked with a group of developers to develope a circuit board which, when programmed by myself and a few others, would take a temperature and humidity reading of the local enviroment.</p>
       <p>Pantheon Technology's primary role in this project was the documentation (designs, reports, evaluations and meeting plans) and project management as well as some developement(front and back end).</p>
-      <a class="w3-button w3-round w3-blue" href="https://gitlab.com/myles_hoult/distributed-and-embedded-systems">GitLab</a>
+      <a class="w3-button w3-round w3-blue" href="https://gitlab.com/myles_hoult/distributed-and-embedded-systems"><i class="fa fa-gitlab"> - GitLab</a></i>
     </div>
     <div class="w3-col l3 m6">
       <img src="Pictures/UML.png" style="width:70%" onclick="onClick(this)" class="w3-hover-opacity" alt="epilepsy app">
       <h1>Epilepsy Warning application</h1>
       <p>The concept for this project was simple. Myself, and a group of developers were tasked to create a webpage that can read a video from a YouTube URL and inform the user if flashing occurs in the video and the time stamp it is present</p>
       <p>Pantheon Technology's primary role in this project was documentation(designs, reports, evaluations and meeting plans) and project management, with some developement(front and back end).</p>
-      <a class="w3-button w3-round w3-blue" href="https://github.com/JSmith1751/epileptic-patients-warning-application">GitHub</a>
+      <a class="w3-button w3-round w3-blue" href="https://github.com/JSmith1751/epileptic-patients-warning-application"><i class="fa fa-gitlab"> - GitLab</a></i>
     </div>
   </div>
 
@@ -218,13 +231,13 @@ body, html {
       <h1>Local eatery businesses database</h1>
       <p>For this project, Pantheon technology worked with a group of developers to create a system in java that could retrieve any information a user desired from the local eaterys in the areas specified by our client</p>
       <p>Pantheon technology covered all stages of the waterfall model for this project, as well as managing the team behind it.</p>
-      <a class="w3-button w3-round w3-blue" href="https://gitlab.com/smity999/2021-5117compcovidiots">GitLab</a>
+      <a class="w3-button w3-round w3-blue" href="https://gitlab.com/smity999/2021-5117compcovidiots"><i class="fa fa-gitlab"> - GitLab</a></i>
     </div>
   </div>
   <br>
   <h1> You can view more projects here</h1>
-  <a class="w3-button w3-round w3-blue" href="https://gitlab.com/">GitLab</a>
-  <a class="w3-button w3-round w3-blue" href="https://github.com/">GitLab</a>
+  <a class="w3-button w3-round w3-blue" href="https://gitlab.com/"><i class="fa fa-gitlab"> - GitLab</a></i>
+  <a class="w3-button w3-round w3-blue" href="https://github.com/"><i class="fa fa-github"> - GitHub</a></i>
 </div>
 
 <!-- Modal for full size images on click-->
@@ -261,6 +274,7 @@ body, html {
     </div>
   </div>
 </div>
+
 
 <!-- Pricing Section -->
 <div class="w3-container w3-center w3-dark-grey" style="padding:128px 16px" id="pricing">
@@ -322,13 +336,31 @@ body, html {
 </div>
 </div>
 
+<!-- Contact section -->
+<div class="w3-container w3-light-grey" style="padding:128px 16px">
+  <div class="w3-row-padding">
+    <div class="w3-col m6">
+      <h3>GET IN TOUCH!</h3>
+      <p>If you have any questions, do not hesitate to get in touch!</p>
+      <p><a class="w3-button w3-blue w3-block" href="https://www.instagram.com/pantheontechnology/"><i class="fa fa-instagram w3-hover-opacity"></i>  Instagram</a></p>
+      <p><a class="w3-button w3-blue w3-block" href="https://twitter.com/PantheonTechCo"> <i class="fa fa-twitter w3-hover-opacity"></i> Twitter</a></p>
+      <p><a class="w3-button w3-blue w3-block" href="https://www.linkedin.com/in/myles-hoult-b19706241/"><i class="fa fa-linkedin w3-hover-opacity"></i> - Linked In</a></p>
+      <p><a class="w3-button w3-blue w3-block" href="mailto:pantheontechnology2022@gmail.com"><i class="fa fa-envelope"></i> - Email</a></p>
+    </div>
+    <div class="w3-col m6">
+      <img class="w3-image w3-round-large" src="Pictures/Quality.jpeg" alt="Office" width="700" height="394">
+    </div>
+  </div>
+</div>
+
 <!-- Footer -->
 <footer class="w3-center w3-black w3-padding-64">
   <a href="#home" class="w3-button w3-light-grey"><i class="fa fa-arrow-up w3-margin-right"></i>To the top</a>
   <div class="w3-xlarge w3-section">
-    <a href="https://www.instagram.com/pantheontechnology/" class="fa fa-instagram w3-hover-opacity"></a>
-    <a href="https://twitter.com/PantheonTechCo" class="fa fa-twitter w3-hover-opacity"></a>
-    <a href="https://www.linkedin.com/in/myles-hoult-b19706241/" class="fa fa-linkedin w3-hover-opacity"></a>
+    <a href="https://www.instagram.com/pantheontechnology/"><i class="fa fa-instagram w3-hover-opacity"></i></a>
+    <a href="https://twitter.com/PantheonTechCo"><i class="fa fa-twitter w3-hover-opacity"></i></a>
+    <a href="https://www.linkedin.com/in/myles-hoult-b19706241/"><i class="fa fa-linkedin w3-hover-opacity"></i></a>
+    <a href="mailto:pantheontechnology2022@gmail.com"><i class="fa fa-envelope"></i></a>
   </div>
 </footer>
  
