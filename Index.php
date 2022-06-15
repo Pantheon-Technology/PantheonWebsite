@@ -8,6 +8,7 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
 <style>
 body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
 
@@ -20,7 +21,7 @@ body, html {
 .bgimg-1 {
   background-position: center;
   background-size: cover;
-  background-image: url("Pictures/Office1.jpeg"); /*needs changing */
+  background-image: url("Pictures/Office1.jpeg"); 
   min-height: 100%;
 }
 
@@ -40,7 +41,7 @@ body, html {
       <a href="#about" class="w3-bar-item w3-button">ABOUT</a>
       <a href="#team" class="w3-bar-item w3-button"><i class="fa fa-user"></i> TEAM</a>
       <a href="#work" class="w3-bar-item w3-button"><i class="fa fa-th"></i> WORK</a>
-      <a href="#pricing" class="w3-bar-item w3-button"><i class="fa fa-usd"></i> PRICING</a>
+      <a href="#pricing" class="w3-bar-item w3-button"><i class="fa fa-gbp"></i> PRICING</a>
     </div>
     <!-- Hide right-floated links on small screens and replace them with a menu icon -->
 
@@ -60,14 +61,14 @@ body, html {
 </nav>
 
 <!-- Header with full-height image -->
-<header class="bgimg-1 w3-display-container w3-grayscale-min" id="home">
-  <div class="w3-display-left w3-text-black" style="padding:48px">
-    <span class="w3-jumbo w3-hide-small">Pantheon Technology</span><br>
+<header class="bgimg-1 w3-display-container w3-grayscale-min " id="home">
+  <div class="w3-display-left w3-text-white" style="padding:48px">
+    <span class="w3-jumbo w3-text-blue w3-hide-small"><strong>Pantheon Technology</strong></span><br>
     <span class="w3-xxlarge w3-hide-large w3-hide-medium">Pantheon Technology</span><br>
-    <span class="w3-xlarge">Welcome to the Pantheon.</span>
-    <p><a href="#about" class="w3-button w3-white w3-padding-large w3-large w3-margin-top w3-opacity w3-hover-opacity-off">Learn about Pantheon</a></p>
+    <span class="w3-xlarge w3-text-blue"><b>Welcome to the Pantheon. Website packages suited for you!</b></span>
+    <p><a href="#about" class="w3-button w3-blue w3-padding-large w3-large w3-margin-top w3-opacity w3-hover-opacity-off">Learn about Pantheon</a></p>
   </div> 
-  <div class="w3-display-bottomleft w3-text-grey w3-large" style="padding:24px 48px">
+  <div class="w3-display-bottomleft w3-text-blue w3-large" style="padding:24px 48px">
     <a href="https://www.instagram.com/pantheontechnology/"><i class="fa fa-instagram w3-hover-opacity">  Instagram</a></i>
       <a href="https://twitter.com/PantheonTechCo"> <i class="fa fa-twitter w3-hover-opacity"> Twitter</a></i>
       <a href="https://www.linkedin.com/in/myles-hoult-b19706241/"><i class="fa fa-linkedin w3-hover-opacity"> - Linked In</a></i>
@@ -79,7 +80,7 @@ body, html {
 <!-- About Section -->
 <div class="w3-container" style="padding:128px 16px" id="about">
   <h3 class="w3-center">ABOUT THE COMPANY</h3>
-  <p class="w3-center w3-large">This website is just for practice! You can not get in touch or book for a service at this time!</p>
+  <p class="w3-center w3-large"><b>Pantheon Technology aims to enhance the online presence of local businesses through the use of website developement. We will manage your hosting needs and domain name registration! </b></p>
   <div class="w3-row-padding w3-center" style="margin-top:64px">
     <div class="w3-quarter">
       <i class="fa fa-desktop w3-margin-bottom w3-jumbo w3-center"></i>
@@ -99,7 +100,7 @@ body, html {
     <div class="w3-quarter">
       <i class="fa fa-cog w3-margin-bottom w3-jumbo"></i>
       <p class="w3-large">Support</p>
-      <p>If you have any questions or issues, our staff are always on hand to give you assistance.</p>
+      <p>If you have any questions or issues, our staff are available to give you assistance.</p>
     </div>
   </div>
 </div>
@@ -108,9 +109,10 @@ body, html {
 <div class="w3-container w3-light-grey" style="padding:128px 16px">
   <div class="w3-row-padding">
     <div class="w3-col m6">
-      <h3>Quality assured.</h3>
-      <p>Here at Pantheon Technology, our priority is quality, the online presence of your business should standout for all to notice.</p>
-      <p><a href="#work" class="w3-button w3-black"><i class="fa fa-th"> </i> View Our Works</a></p>
+      <h3>Make your presence be known online.</h3>
+      <p>In the modern era, it is vital for your business to have an online presence, without one, you will be stuck in the past!</p>
+      <P>View our work to discover how you can take your street business to the world.</p>
+      <p><a href="#work" class="w3-button w3-black"><i class="fa fa-th"></i> View Our Works</a></p>
     </div>
     <div class="w3-col m6">
       <img class="w3-image w3-round-large" src="Pictures/Quality.jpeg" alt="Office" width="700" height="394">
@@ -130,32 +132,31 @@ body, html {
           <h3>Myles Hoult</h3>
           <p class="w3-opacity">CEO & Founder</p>
           <p>Bachelor Graduate from LJMU in Software Engineering, his love for website developement led him to founding this company.</p>
-          <p><a class="w3-button w3-light-grey w3-block" href="mailto:pantheontechnology2022@gmail.com"><i class="fa fa-envelope"></i>Contact</a></p>
+          <p><a class="w3-button w3-light-grey w3-block" href="mailto:pantheontechnology2022@gmail.com"><i class="fa fa-envelope"></i> - Email</a></p>
         </div>
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
       <div class="w3-card w3-grey">
-        <img src="Pictures/profile.png" alt="Myles" style="width:20%">
+        <img src="Pictures/profile.png" alt="James" style="width:20%">
         <div class="w3-container">
           <h3>James Smith</h3>
-          <p class="w3-opacity">Head Developer</p>
-          <p>Bachelor Graduate from LJMU in Software Engineering, programming is his passion, theres yet to be a problem he can't solve.</p>
-          <p><a class="w3-button w3-light-grey w3-block" href="mailto:pantheontechnology2022@gmail.com"><i class="fa fa-envelope"></i>Contact</a></p>
+          <p class="w3-opacity">Developer</p>
+          <p>Bachelor Graduate from LJMU in Software Engineering. Myles and James have been working on projects for the last 3 years.</p>
+          <p><a class="w3-button w3-light-grey w3-block" href="mailto:pantheontechnology2022@gmail.com"><i class="fa fa-envelope"></i> - Email</a></p>
         </div>
       </div>
     </div>
     <div class="w3-col l3 m6 w3-margin-bottom">
-      <div class="w3-card w3-grey">
+    <div class="w3-card w3-grey">
         <img src="Pictures/profile.png" alt="Myles" style="width:20%">
         <div class="w3-container">
           <h3>Deirdre Hoult</h3>
-          <p class="w3-opacity">Creative Director</p>
-          <p>When it comes to designing a pleasing website, there is no one better. She has design experience both on and off of the internet.</p>
-          <p><a class="w3-button w3-light-grey w3-block" href="mailto:pantheontechnology2022@gmail.com"><i class="fa fa-envelope"></i>Contact</a></p>
+          <p class="w3-opacity">Head of Design</p>
+          <p>When it comes to the colours, layouts and overall designs of the webpages, Deirdre will always improvem what has been done.</p>
+          <p><a class="w3-button w3-light-grey w3-block" href="mailto:pantheontechnology2022@gmail.com"><i class="fa fa-envelope"></i> - Email</a></p>
         </div>
       </div>
-    </div>
   </div>
 </div>
 
@@ -195,24 +196,7 @@ body, html {
       <a class="w3-button w3-round w3-blue" href="https://gitlab.com/myles_hoult/cloud-computing"><i class="fa fa-gitlab"> - GitLab</a></i>
     </div>
     <div class="w3-col l3 m6">
-      <img src="Pictures/Context Diagram.png" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Distributed and embedded systems">
-      <h1>Distributed and embedded systems</h1>
-      <p>For this project, I worked with a group of developers to develope a circuit board which, when programmed by myself and a few others, would take a temperature and humidity reading of the local enviroment.</p>
-      <p>Pantheon Technology's primary role in this project was the documentation (designs, reports, evaluations and meeting plans) and project management as well as some developement(front and back end).</p>
-      <a class="w3-button w3-round w3-blue" href="https://gitlab.com/myles_hoult/distributed-and-embedded-systems"><i class="fa fa-gitlab"> - GitLab</a></i>
-    </div>
-    <div class="w3-col l3 m6">
-      <img src="Pictures/UML.png" style="width:70%" onclick="onClick(this)" class="w3-hover-opacity" alt="epilepsy app">
-      <h1>Epilepsy Warning application</h1>
-      <p>The concept for this project was simple. Myself, and a group of developers were tasked to create a webpage that can read a video from a YouTube URL and inform the user if flashing occurs in the video and the time stamp it is present</p>
-      <p>Pantheon Technology's primary role in this project was documentation(designs, reports, evaluations and meeting plans) and project management, with some developement(front and back end).</p>
-      <a class="w3-button w3-round w3-blue" href="https://github.com/JSmith1751/epileptic-patients-warning-application"><i class="fa fa-gitlab"> - GitLab</a></i>
-    </div>
-  </div>
-
-  <div class="w3-row-padding w3-section">
-    <div class="w3-col l3 m6">
-      <img src="Pictures/Design.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Design">
+      <img src="Pictures/Design.jpg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Adobe Design">
       <h1>App design with Adobe XD</h1>
       <p>For this project, the client requested some designs for a weather application they were creating. Using AdobeXD and the specification given, I created multiple linking pages for the client that would showcase how their system would function.</p>
     </div>
@@ -221,60 +205,43 @@ body, html {
       <h1>Recipe Sharing website</h1>
       <p>A client requested I create a webpage that could allow chefs to sign up to the website to view, create and favourite recipes, they could also search for recipes by ingredient, cook time, etc.</p>
     </div>
+  </div>
+
+  <div class="w3-row-padding w3-section">
     <div class="w3-col l3 m6">
       <img src="Pictures/ElectricAvenue.png" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Electric Avenue">
       <h1>Electric Avenue Tattoo</h1>
       <p>The client asked me to create a portfolio for their tattoos so that customers can view his work and request a booking</p>
     </div>
     <div class="w3-col l3 m6">
-      <img src="Pictures/data.jpeg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="A tableturner">
+      <img src="Pictures/data.jpeg" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Business Database">
       <h1>Local eatery businesses database</h1>
       <p>For this project, Pantheon technology worked with a group of developers to create a system in java that could retrieve any information a user desired from the local eaterys in the areas specified by our client</p>
       <p>Pantheon technology covered all stages of the waterfall model for this project, as well as managing the team behind it.</p>
       <a class="w3-button w3-round w3-blue" href="https://gitlab.com/smity999/2021-5117compcovidiots"><i class="fa fa-gitlab"> - GitLab</a></i>
     </div>
+    <div class="w3-col l3 m6">
+      <img src="Pictures/CafeTemplate1.png" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Eatery Template">
+      <h1>Cafe Template 1</h1>
+      <p>This template has not been used by a customer as of yet, it is currently a work in progress and will be available for use soon!</p>
+    </div>
+    <div class="w3-col l3 m6">
+      <img src="Pictures/CafeTemplate2.png" style="width:100%" onclick="onClick(this)" class="w3-hover-opacity" alt="Eatery Template">
+      <h1>Cafe Template 2</h1>
+      <p>This template has not been used by a customer as of yet, it is currently a work in progress and will be available for use soon!</p>
+    </div>
   </div>
   <br>
-  <h1> You can view more projects here</h1>
-  <a class="w3-button w3-round w3-blue" href="https://gitlab.com/"><i class="fa fa-gitlab"> - GitLab</a></i>
-  <a class="w3-button w3-round w3-blue" href="https://github.com/"><i class="fa fa-github"> - GitHub</a></i>
 </div>
 
 <!-- Modal for full size images on click-->
 <div id="modal01" class="w3-modal w3-black" onclick="this.style.display='none'">
-  <span class="w3-button w3-xxlarge w3-black w3-padding-large w3-display-topright" title="Close Modal Image">×</span>
+  <span class="w3-button w3-xxlarge w3-black w3-padding-large w3-display-topright" title="Close Modal Image"></span>
   <div class="w3-modal-content w3-animate-zoom w3-center w3-transparent w3-padding-64">
     <img id="img01" class="w3-image">
     <p id="caption" class="w3-opacity w3-large"></p>
   </div>
 </div>
-
-<!-- Skills Section -->
-<div class="w3-container w3-light-grey w3-padding-64">
-  <div class="w3-row-padding">
-    <div class="w3-col m6">
-      <h3>Our Skills.</h3>
-      <p>Our most prominent programming languages we use are PHP, MySQL, HTML, JavaScript and CSS.</p>
-      <p>However we have also completed projects in Java, Python, C++ and C# to name a few.</p>
-      <p>
-    </div>
-    <div class="w3-col m6">
-      <p class="w3-wide"><i class="fa fa-desktop w3-margin-right"></i>Web Developement</p>
-      <div class="w3-grey">
-        <div class="w3-container w3-dark-grey w3-center" style="width:90%">90%</div>
-      </div>
-      <p class="w3-wide"><i class="fa fa-desktop w3-margin-right"></i>Distributed and Embedded systems</p>
-      <div class="w3-grey">
-        <div class="w3-container w3-dark-grey w3-center" style="width:80%">80%</div>
-      </div>
-      <p class="w3-wide"><i class="fa fa-desktop w3-margin-right"></i>Object Oriented Systems</p>
-      <div class="w3-grey">
-        <div class="w3-container w3-dark-grey w3-center" style="width:75%">75%</div>
-      </div>
-    </div>
-  </div>
-</div>
-
 
 <!-- Pricing Section -->
 <div class="w3-container w3-center w3-dark-grey" style="padding:128px 16px" id="pricing">
@@ -336,7 +303,7 @@ body, html {
 </div>
 </div>
 
-<!-- Contact section -->
+
 <div class="w3-container w3-light-grey" style="padding:128px 16px">
   <div class="w3-row-padding">
     <div class="w3-col m6">
@@ -348,10 +315,39 @@ body, html {
       <p><a class="w3-button w3-blue w3-block" href="mailto:pantheontechnology2022@gmail.com"><i class="fa fa-envelope"></i> - Email</a></p>
     </div>
     <div class="w3-col m6">
-      <img class="w3-image w3-round-large" src="Pictures/Quality.jpeg" alt="Office" width="700" height="394">
+    <img class="w3-image w3-round-large" src="Pictures/Contact.jpeg" alt="Office" width="700" height="394">
     </div>
   </div>
 </div>
+
+<?php 
+//echo print_r($_POST);
+?>
+
+<?php
+ // $message_sent = false;
+
+ // if(isset($_POST["Email"]) && $_POST['Email']!=''){
+    //SUBMIT FORM
+    // if(filter_var($_POST['Email'], FILTER_VALIDATE_EMAIL)){
+    //CHECK EMAIL FORMAT IS OK
+     // $companyName = $_POST['Company'];
+     // $userEmail = $_POST['Email'];
+     // $subject = $_POST['Subject'];
+    //  $message = $_POST['Message'];
+
+
+    //  $to ="pantheontechnology2022@gmail.com";
+      
+    //  mail($to, $subject, $message);
+
+    //  $message_sent = true;
+  // } //else{
+     // $invalid_class_name = "form-invalid";
+    //}
+ // }
+?>
+
 
 <!-- Footer -->
 <footer class="w3-center w3-black w3-padding-64">
