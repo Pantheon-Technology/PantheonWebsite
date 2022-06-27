@@ -10,7 +10,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <style>
-body,h1,h2,h3,h4,h5,h6 {font-family: "Raleway", sans-serif}
+body,h1,h2,h3,h4,h5,h6 {font-family: "Trirong", serif}
 
 body, html {
   height: 100%;
@@ -102,15 +102,10 @@ img {vertical-align: middle;}
   <div class="w3-display-left" style="padding:48px">
     <span class="w3-jumbo w3-text-black w3-hide-small"><strong>Pantheon Technology</strong></span><br>
     <span class="w3-xxlarge w3-hide-large w3-hide-medium">Pantheon Technology</span><br>
-    <span class="w3-xlarge w3-text-black"><b>Welcome to the Pantheon. Website packages suited for you!</b></span>
-    <p><a href="#about" class="w3-button w3-black w3-padding-large w3-large w3-margin-top w3-opacity w3-hover-opacity-off">Learn about Pantheon</a></p>
+    <span class="w3-xlarge w3-text-black"><b>Welcome to the Pantheon. Website packages tailored for your needs!</b></span>
   </div> 
   <div class="w3-display-bottomleft w3-text-black w3-xlarge" style="padding:12px 24px">
-    <a href="https://www.instagram.com/pantheontechnology/"><i class="fa fa-instagram w3-hover-opacity"><b>  Instagram</b></a></i>
-      <a href="https://twitter.com/PantheonTechCo"> <i class="fa fa-twitter w3-hover-opacity"><strong> Twitter</strong></a></i>
-      <a href="https://www.linkedin.com/in/myles-hoult-b19706241/"><i class="fa fa-linkedin w3-hover-opacity"><b> - Linked In</b></a></i>
-      <a href="mailto:pantheontechnology2022@gmail.com"><i class="fa fa-envelope"><b> - Email</b></a></i>
-      
+  <p><a href="#about" class="w3-button w3-black w3-padding-large w3-large w3-margin-top w3-opacity w3-hover-opacity-off">Learn about Pantheon</a></p>      
   </div>
 </header>
 
@@ -148,7 +143,7 @@ img {vertical-align: middle;}
 <div class="w3-container w3-row w3-center w3-dark-grey w3-padding-64">
   <div class="w3-third">
     <span class="w3-xxlarge">20+</span>
-    <br>Projects Done
+    <br>Successfully completed
   </div>
   <div class="w3-third">
     <span class="w3-xxlarge">3+</span>
@@ -156,30 +151,30 @@ img {vertical-align: middle;}
   </div>
   <div class="w3-third">
     <span class="w3-xxlarge">1000+</span>
-    <br>hours spent programming
+    <br>hours of programming
   </div>
 </div>
 
 <!-- Work Section -->
-<div class="w3-container" style="padding:16px 16px" id="work">
+<div class="w3-container" style="padding:8px 8px" id="work">
   <h3 class="w3-center"><b>OUR WORK</b></h3>
 
 <div class="w3-third" style="padding:16px 16px">
 <h5 class="w3-center">Cafe Template 1</h5>
-    <img src="Pictures/CafeTemplate1Page1.png" style="width:100%">
+    <img src="Pictures/CafeTemplate1.jpg" style="width:100%">
     <p><a class="w3-button w3-blue w3-block" href="CafeTemplate1.php">Click to View This Template!</a></p>
   </div>
 
   <div class="w3-third" style="padding:16px 16px">
 <h5 class="w3-center">Cafe Template 2</h5>
-    <img src="Pictures/CafeTemplate2Page1.png" style="width:100%">
+    <img src="Pictures/CafeTemplate2.jpg" style="width:100%">
     <p><a class="w3-button w3-blue w3-block" href="CafeTemplate2.php">Click to View This Template!</a></p>
     <br>
   </div>
 
   <div class="w3-third" style="padding:16px 16px">
 <h5 class="w3-center">Cafe Template 3</h5>
-    <img src="Pictures/CafeTemplate3Page3.png" style="width:100%">
+    <img src="Pictures/CafeTemplate3.jpg" style="width:100%">
     <p><a class="w3-button w3-blue w3-block" href="CafeTemplate3.php">Click to View This Template!</a></p>
     <br>
   </div>
@@ -208,19 +203,16 @@ img {vertical-align: middle;}
 
 <!-- Pricing Section -->
 <div class="w3-container w3-center w3-dark-grey" style="padding:128px 16px" id="pricing">
-  <h3>Price sheet</h3>
-  <p><b>All</b> packages come with unlimited free consultations along with guidance and support. The fees listed cover the running cost of your website, its domain name and any maintainence required.</p>
-  <p><b>First time customers will also recieve 3 modify tokens when they sign up for the year!</b></p>
-  <h4 class="w3-text-blue"><b> All packages can be tailored to best suit your needs! The below packages are designed to give some insight to running costs</h4></b>
+  <h1>PRICE SHEET</h1>
+  <p class="w3-large"><b>All</b> packages come with unlimited free consultations along with guidance and support. The fees listed cover the running cost of your website, its domain name and any maintainence required.</p>
+  <h4 class="w3-text-blue"><b> All packages can be tailored to best suit your needs! The packages below are designed to give some insight to running costs</h4></b>
   <div class="w3-row-padding" style="margin-top:64px">
     <div class="w3-third w3-section">
       <ul class="w3-ul w3-white w3-hover-shadow">
-        <li class="w3-green w3-xlarge w3-padding-48">Bronze package</li>
-        <p>Suitable for users who wish to use their website as a portfolio for their work, or information for their customers, requires less processing power.</p>
-        <p><b>Recommended for first time web owners </b></p>
+        <li class="w3-green w3-xlarge w3-padding-32">Bronze package</li>
+        <p>Suitable for users who wish to use their website as a portfolio for their work, or information for their customers.</p>
         <li class="w3-padding-16"><b>3 days</b> delivery</li>
         <li class="w3-padding-16"><b>One</b> webpage</li>
-        <li class="w3-padding-16"><b>basic</b> functionality</li>
         <li class="w3-padding-16"><b>£50</b> setup</li>
         <li class="w3-padding-16">
           <h2 class="w3-wide">£ 80</h2>
@@ -234,10 +226,9 @@ img {vertical-align: middle;}
     <div class="w3-third w3-section">
       <ul class="w3-ul w3-white w3-hover-shadow">
         <li class="w3-black w3-xlarge w3-padding-32">Silver package</li>
-        <p>Suitable for businesses who wish to add to their sites (such as blogs and pictures)</p>
+        <p>Suitable for businesses who wish to add to their sites (such as blogs and pictures). Includes an account creation proccess.</p>
         <li class="w3-padding-16"><b>5 - 7 days</b> delivery</li>
         <li class="w3-padding-16"><b>up to 3</b> webpages</li>
-        <li class="w3-padding-16"><b>Increased</b> features</li>
         <li class="w3-padding-16"><b>£75</b> setup</li>
         <li class="w3-padding-16">
           <h2 class="w3-wide">£ 120</h2>
@@ -253,8 +244,7 @@ img {vertical-align: middle;}
         <li class="w3-black w3-xlarge w3-padding-32">Gold package</li>
         <p>Suitable for larger companies who take payments, recieve reviews, send orders, also allows for user accounts to modify certain aspects of the site.</p>
         <li class="w3-padding-16"><b>7 - 14 days</b>delivery</li>
-        <li class="w3-padding-16"><b>3+</b> pages</li>
-        <li class="w3-padding-16"><b>Complex</b> functionality</li>
+        <li class="w3-padding-16"><b>up to 6</b> pages</li>
         <li class="w3-padding-16"><b>£100</b> Setup</li>
         <li class="w3-padding-16">
           <h2 class="w3-wide">£ 200+</h2>
@@ -271,10 +261,11 @@ img {vertical-align: middle;}
   <div class="w3-third w3-section">
       <ul class="w3-ul w3-white w3-hover-shadow">
         <li class="w3-black w3-xlarge w3-padding-32">Basic Modify Token</li>
-        <p>The <b>BASIC</b> modify token allows small tweaks to be made to your webpage, ranging from a pictures up to a relocation of existing content.</p>
-        <li class="w3-padding-16"><b>1 - 3 days</b>delivery</li>  
+        <p>The <b>BASIC</b> modify token allows small tweaks to be made to your webpage, ranging from an image change up to a relocation of existing content.</p>
+        <li class="w3-padding-16"><b>1 - 3 days</b> delivery</li>  
         <li class="w3-padding-16">
           <h2 class="w3-wide">£ 25</h2>
+          <span class="w3-opacity">per token</span>
         </li>
         <li class="w3-light-grey w3-padding-24">
         <p><a class="w3-button w3-blue w3-block" href="mailto:pantheontechnology2022@gmail.com"><i class="fa fa-envelope"></i> - Enquire by Email</a></p>
@@ -284,10 +275,11 @@ img {vertical-align: middle;}
     <div class="w3-third w3-section">
       <ul class="w3-ul w3-white w3-hover-shadow">
         <li class="w3-black w3-xlarge w3-padding-32">Standard Modify Token</li>
-        <p>The <b>STANDARD</b> modify token allows more complext tweaks to be made to your webpage, ranging from colour changes to theme changes!</p>
-        <li class="w3-padding-16"><b>3 - 5 days</b>delivery</li>  
+        <p>The <b>STANDARD</b> modify token allows more complex tweaks to be made to your webpage, such as colour or theme changes!</p>
+        <li class="w3-padding-16"><b>3 - 5 days</b> delivery</li>  
         <li class="w3-padding-16">
           <h2 class="w3-wide">£ 50</h2>
+          <span class="w3-opacity">per token</span>
         </li>
         <li class="w3-light-grey w3-padding-24">
         <p><a class="w3-button w3-blue w3-block" href="mailto:pantheontechnology2022@gmail.com"><i class="fa fa-envelope"></i> - Enquire by Email</a></p>
@@ -297,7 +289,8 @@ img {vertical-align: middle;}
     <div class="w3-third w3-section">
       <ul class="w3-ul w3-white w3-hover-shadow">
         <li class="w3-black w3-xlarge w3-padding-32">Analytics</li>
-        <p>Shows you a basic view of your webpages performance. The price will be added to your package should you request this addon.</p> 
+        <p>Shows you a basic view of your website performance, this is available in paper or electronic form. This can be added to your package for as little as £10 per month.</p> 
+        <li class="w3-padding-16"><b>1 </b>Per month</li>
         <li class="w3-padding-16">
           <h2 class="w3-wide">£ 10</h2>
           <span class="w3-opacity">per month</span>
