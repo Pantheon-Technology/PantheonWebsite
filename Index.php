@@ -80,6 +80,7 @@ img {vertical-align: middle;}
       <a href="#about" class="w3-bar-item w3-button">ABOUT</a>
       <a href="#work" class="w3-bar-item w3-button"><i class="fa fa-th"></i> WORK</a>
       <a href="#pricing" class="w3-bar-item w3-button"><i class="fa fa-gbp"></i> PRICING</a>
+      <a href="#contact" class="w3-bar-item w3-button"> CONTACT</a>
     </div>
     <!-- Hide right-floated links on small screens and replace them with a menu icon -->
 
@@ -95,6 +96,7 @@ img {vertical-align: middle;}
   <a href="#about" onclick="w3_close()" class="w3-bar-item w3-button">ABOUT</a>
   <a href="#work" onclick="w3_close()" class="w3-bar-item w3-button">WORK</a>
   <a href="#pricing" onclick="w3_close()" class="w3-bar-item w3-button">PRICING</a>
+  <a href="#contact" onclick="w3_close()" class="w3-bar-item w3-button">CONTACT</a>
 </nav>
 
 <!-- Header with full-height image -->
@@ -181,19 +183,19 @@ img {vertical-align: middle;}
 
   <div class="w3-third" style="padding:16px 16px">
 <h5 class="w3-center">Portfolio Template 1</h5>
-    <img src="Pictures/PortfolioTemplate1.png" style="width:100%">
+    <img src="Pictures/PortfolioTemplate1.jpg" style="width:100%">
     <p><a class="w3-button w3-blue w3-block" href="PortfolioTemplate1.php">Click to View This Template!</a></p>
   </div>
 
   <div class="w3-third" style="padding:16px 16px">
-<h5 class="w3-center">Portfolio Template 2</h5>
-    <img src="Pictures/ElectricAvenuePage1.png" style="width:100%">
-    <p><a class="w3-button w3-blue w3-block" href="PortfolioTemplate2.php">Click to View This Template!</a></p>
+<h5 class="w3-center">Electric Avenue Tattoo</h5>
+    <img src="Pictures/ElectricAvenueTattoo.jpg" style="width:100%">
+    <p><a class="w3-button w3-blue w3-block" href="http://electricavenuetattoo.co.uk/">Click to View This Template!</a></p>
   </div>
 
   <div class="w3-third" style="padding:16px 16px">
 <h5 class="w3-center">Startup Business Template 1</h5>
-    <img src="Pictures/NewShopTemplate.png" style="width:100%">
+    <img src="Pictures/NewShopTemplate.jpg" style="width:100%">
     <p><a class="w3-button w3-blue w3-block" href="NewShopTemplate.php">Click to View This Template!</a></p>
   </div>
 
@@ -207,51 +209,45 @@ img {vertical-align: middle;}
   <p class="w3-large"><b>All</b> packages come with unlimited free consultations along with guidance and support. The fees listed cover the running cost of your website, its domain name and any maintainence required.</p>
   <h4 class="w3-text-blue"><b> All packages can be tailored to best suit your needs! The packages below are designed to give some insight to running costs</h4></b>
   <div class="w3-row-padding" style="margin-top:64px">
-    <div class="w3-third w3-section">
+    <div class="w3-half w3-section">
       <ul class="w3-ul w3-white w3-hover-shadow">
-        <li class="w3-green w3-xlarge w3-padding-32">Bronze package</li>
+        <li class="w3-green w3-xlarge w3-padding-32">Silver package</li>
         <p>Suitable for users who wish to use their website as a portfolio for their work, or information for their customers.</p>
         <li class="w3-padding-16"><b>3 days</b> delivery</li>
-        <li class="w3-padding-16"><b>One</b> webpage</li>
-        <li class="w3-padding-16"><b>£50</b> setup</li>
+        <li class="w3-padding-16"><b>SSL</b> certificate</li>
+        <li class="w3-padding-16"><b>Hosting</b> provided</li>
+        <li class="w3-padding-16"><b>Domain</b> included</li>
+        <li class="w3-padding-16"><b>Web</b> maintainence</li>
+        <li class="w3-padding-16">Basic <b>SEO</b> setup</li>
+        <li class="w3-padding-16">Personlized Email <b>NOT</b> included</li>
+        <li class="w3-padding-16"><b>£75</b> setup</li>
         <li class="w3-padding-16">
-          <h2 class="w3-wide">£ 80</h2>
+          <h2 class="w3-wide">£ 100</h2>
           <span class="w3-opacity">per month</span>
         </li>
         <li class="w3-light-grey w3-padding-24">
-        <p><a class="w3-button w3-blue w3-block" href="mailto:pantheontechnology2022@gmail.com"><i class="fa fa-envelope"></i> - Enquire by Email</a></p>
+        <p><a class="w3-button w3-blue w3-block" href="mailto:myles.hoult@pantheontechnology.co.uk"><i class="fa fa-envelope"></i> - Enquire by Email</a></p>
         </li>
       </ul>
     </div>
-    <div class="w3-third w3-section">
+    <div class="w3-half w3-section">
       <ul class="w3-ul w3-white w3-hover-shadow">
-        <li class="w3-black w3-xlarge w3-padding-32">Silver package</li>
+        <li class="w3-black w3-xlarge w3-padding-32">Gold package</li>
         <p>Suitable for businesses who wish to add to their sites (such as blogs and pictures). Includes an account creation proccess.</p>
         <li class="w3-padding-16"><b>5 - 7 days</b> delivery</li>
-        <li class="w3-padding-16"><b>up to 3</b> webpages</li>
-        <li class="w3-padding-16"><b>£75</b> setup</li>
+        <li class="w3-padding-16"><b>SSL</b> certificate</li>
+        <li class="w3-padding-16"><b>Hosting</b> provided</li>
+        <li class="w3-padding-16"><b>Domain</b> included</li>
+        <li class="w3-padding-16"><b>Web</b> maintainence</li>
+        <li class="w3-padding-16">Detailed <b>SEO</b> setup</li>
+        <li class="w3-padding-16">Personlized Email <b>IS</b> included</li>
+        <li class="w3-padding-16"><b>£100</b> setup</li>
         <li class="w3-padding-16">
           <h2 class="w3-wide">£ 120</h2>
           <span class="w3-opacity">per month</span>
         </li>
         <li class="w3-light-grey w3-padding-24">
-        <p><a class="w3-button w3-blue w3-block" href="mailto:pantheontechnology2022@gmail.com"><i class="fa fa-envelope"></i> - Enquire by Email</a></p>
-        </li>
-      </ul>
-    </div>
-    <div class="w3-third w3-section">
-      <ul class="w3-ul w3-white w3-hover-shadow">
-        <li class="w3-black w3-xlarge w3-padding-32">Gold package</li>
-        <p>Suitable for larger companies who take payments, recieve reviews, send orders, also allows for user accounts to modify certain aspects of the site.</p>
-        <li class="w3-padding-16"><b>7 - 14 days</b>delivery</li>
-        <li class="w3-padding-16"><b>up to 6</b> pages</li>
-        <li class="w3-padding-16"><b>£100</b> Setup</li>
-        <li class="w3-padding-16">
-          <h2 class="w3-wide">£ 200+</h2>
-          <span class="w3-opacity">per month</span>
-        </li>
-        <li class="w3-light-grey w3-padding-24">
-        <p><a class="w3-button w3-blue w3-block" href="mailto:pantheontechnology2022@gmail.com"><i class="fa fa-envelope"></i> - Enquire by Email</a></p>
+        <p><a class="w3-button w3-blue w3-block" href="mailto:myles.hoult@pantheontechnology.co.uk"><i class="fa fa-envelope"></i> - Enquire by Email</a></p>
         </li>
       </ul>
     </div>
@@ -268,7 +264,7 @@ img {vertical-align: middle;}
           <span class="w3-opacity">per token</span>
         </li>
         <li class="w3-light-grey w3-padding-24">
-        <p><a class="w3-button w3-blue w3-block" href="mailto:pantheontechnology2022@gmail.com"><i class="fa fa-envelope"></i> - Enquire by Email</a></p>
+        <p><a class="w3-button w3-blue w3-block" href="mailto:mailto:myles.hoult@pantheontechnology.co.uk"><i class="fa fa-envelope"></i> - Enquire by Email</a></p>
         </li>
       </ul>
     </div>
@@ -282,7 +278,7 @@ img {vertical-align: middle;}
           <span class="w3-opacity">per token</span>
         </li>
         <li class="w3-light-grey w3-padding-24">
-        <p><a class="w3-button w3-blue w3-block" href="mailto:pantheontechnology2022@gmail.com"><i class="fa fa-envelope"></i> - Enquire by Email</a></p>
+        <p><a class="w3-button w3-blue w3-block" href="mailto:myles.hoult@pantheontechnology.co.uk"><i class="fa fa-envelope"></i> - Enquire by Email</a></p>
         </li>
       </ul>
     </div>
@@ -296,7 +292,20 @@ img {vertical-align: middle;}
           <span class="w3-opacity">per month</span>
         </li>
         <li class="w3-light-grey w3-padding-24">
-        <p><a class="w3-button w3-blue w3-block" href="mailto:pantheontechnology2022@gmail.com"><i class="fa fa-envelope"></i> - Enquire by Email</a></p>
+        <p><a class="w3-button w3-blue w3-block" href="mailto:myles.hoult@pantheontechnology.co.uk"><i class="fa fa-envelope"></i> - Enquire by Email</a></p>
+        </li>
+      </ul>
+    </div>
+    <div class="w3-third w3-section">
+      <ul class="w3-ul w3-white w3-hover-shadow">
+        <li class="w3-black w3-xlarge w3-padding-32">Ad campaign</li>
+        <p>I will run an advertisement campaign for your business, this will gaurantee your site will gain more visitors.</p> 
+        <li class="w3-padding-16">
+          <h2 class="w3-wide">Price varies on campaign specifications</h2>
+          <span class="w3-opacity"> please get in touch for more info</span>
+        </li>
+        <li class="w3-light-grey w3-padding-24">
+        <p><a class="w3-button w3-blue w3-block" href="mailto:myles.hoult@pantheontechnology.co.uk"><i class="fa fa-envelope"></i> - Enquire by Email</a></p>
         </li>
       </ul>
     </div>
@@ -305,7 +314,7 @@ img {vertical-align: middle;}
 </div>
 
 
-<div class="w3-container w3-light-grey" style="padding:128px 16px">
+<div id="contact" class="w3-container w3-light-grey" style="padding:128px 16px">
   <div class="w3-row-padding">
     <div class="w3-col m6">
       <h3>GET IN TOUCH!</h3>
@@ -313,7 +322,7 @@ img {vertical-align: middle;}
       <p><a class="w3-button w3-blue w3-block" href="https://www.instagram.com/pantheontechnology/"><i class="fa fa-instagram w3-hover-opacity"></i>  Instagram</a></p>
       <p><a class="w3-button w3-blue w3-block" href="https://twitter.com/PantheonTechCo"> <i class="fa fa-twitter w3-hover-opacity"></i> Twitter</a></p>
       <p><a class="w3-button w3-blue w3-block" href="https://www.linkedin.com/in/myles-hoult-b19706241/"><i class="fa fa-linkedin w3-hover-opacity"></i> - Linked In</a></p>
-      <p><a class="w3-button w3-blue w3-block" href="mailto:pantheontechnology2022@gmail.com"><i class="fa fa-envelope"></i> - Email</a></p>
+      <p><a class="w3-button w3-blue w3-block" href="mailto:myles.hoult@pantheontechnology.co.uk"><i class="fa fa-envelope"></i> - Email</a></p>
     </div>
     <div class="w3-col m6">
     <img class="w3-image w3-round-large" src="Pictures/Contact.jpeg" alt="Office" width="700" height="394">
@@ -357,7 +366,7 @@ img {vertical-align: middle;}
     <a href="https://www.instagram.com/pantheontechnology/"><i class="fa fa-instagram w3-hover-opacity"></i></a>
     <a href="https://twitter.com/PantheonTechCo"><i class="fa fa-twitter w3-hover-opacity"></i></a>
     <a href="https://www.linkedin.com/in/myles-hoult-b19706241/"><i class="fa fa-linkedin w3-hover-opacity"></i></a>
-    <a href="mailto:pantheontechnology2022@gmail.com"><i class="fa fa-envelope"></i></a>
+    <a href="mailto:myles.hoult@pantheontechnology.co.uk"><i class="fa fa-envelope"></i></a>
   </div>
 </footer>
  

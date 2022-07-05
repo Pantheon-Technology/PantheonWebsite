@@ -104,7 +104,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
       <p><a href="https://www.instagram.com/pantheontechnology/"><i class="fa fa-instagram w3-hover-opacity">  Instagram</a></i></p>
       <p><a href="https://twitter.com/PantheonTechCo"> <i class="fa fa-twitter w3-hover-opacity"> Twitter</a></i></p>
       <p><a href="https://www.linkedin.com/in/myles-hoult-b19706241/"><i class="fa fa-linkedin w3-hover-opacity"> - Linked In</a></i><p>
-      <p><a href="mailto:pantheontechnology2022@gmail.com"><i class="fa fa-envelope"> - Email</a></i><p>
+      <p><a href="mailto:myles.hoult@pantheontechnology.co.uk"><i class="fa fa-envelope"> - Email</a></i><p>
     </div>
   
     <div class="w3-third">

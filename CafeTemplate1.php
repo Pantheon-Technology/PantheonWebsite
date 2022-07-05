@@ -90,7 +90,7 @@ body, html {height: 100%}
       <p><a class="w3-button w3-blue w3-block" href="https://www.instagram.com/pantheontechnology/"><i class="fa fa-instagram w3-hover-opacity"></i>  Instagram</a></p>
       <p><a class="w3-button w3-blue w3-block" href="https://twitter.com/PantheonTechCo"> <i class="fa fa-twitter w3-hover-opacity"></i> Twitter</a></p>
       <p><a class="w3-button w3-blue w3-block" href="https://www.linkedin.com/in/myles-hoult-b19706241/"><i class="fa fa-linkedin w3-hover-opacity"></i> - Linked In</a></p>
-      <p><a class="w3-button w3-blue w3-block" href="mailto:pantheontechnology2022@gmail.com"><i class="fa fa-envelope"></i> - Email</a></p>
+      <p><a class="w3-button w3-blue w3-block" href="mailto:myles.hoult@pantheontechnology.co.uk"><i class="fa fa-envelope"></i> - Email</a></p>
       <p><a class="w3-button w3-blue w3-block" href=""><i class="fa fa-phone"></i> Phone number - 0151 000 0000</a></p>
       
     </div>

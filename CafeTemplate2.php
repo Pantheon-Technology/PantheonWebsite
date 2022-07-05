@@ -40,7 +40,7 @@ body, html {
       <a href="#menu" class="w3-button w3-block w3-black">MENU</a>
     </div>
     <div class="w3-col s3">
-      <a href="#where" class="w3-button w3-block w3-black">WHERE</a>
+      <a href="#contact" class="w3-button w3-block w3-black">CONTACT</a>
     </div>
   </div>
 </div>
@@ -113,7 +113,7 @@ body, html {
 </div>
 
 <!-- Contact/Area Container -->
-<div class="w3-container" id="where" style="padding-bottom:32px;">
+<div class="w3-container" id="contact" style="padding-bottom:32px;">
   <div class="w3-content" style="max-width:700px">
     <h5 class="w3-center w3-padding-48"><span class="w3-tag w3-wide">Contact Info</span></h5>
   <div class="w3-row-padding">

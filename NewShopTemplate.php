@@ -36,7 +36,7 @@ body, html {height: 100%}
     <a href="https://www.instagram.com/pantheontechnology/"><i class="fa fa-instagram w3-hover-opacity"></i></a>
     <a href="https://twitter.com/PantheonTechCo"><i class="fa fa-twitter w3-hover-opacity"></i></a>
     <a href="https://www.linkedin.com/in/myles-hoult-b19706241/"><i class="fa fa-linkedin w3-hover-opacity"></i></a>
-    <a href="mailto:pantheontechnology2022@gmail.com"><i class="fa fa-envelope"></i></a>
+    <a href="mailto:myles.hoult@pantheontechnology.co.uk"><i class="fa fa-envelope"></i></a>
   </div>
 </footer>
 

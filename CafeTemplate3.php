@@ -85,7 +85,7 @@ h1, h2, h3, h4, h5, h6 {
     <h4>Telephone Number:</h4>
     <p class="w3-text-blue-grey w3-large"><i class="fa fa-phone w3-hover-opacity"><b> 0151 000 0000</b></i></p>
     <h4>Email:</h4>
-    <p><a class="w3-text-blue-grey w3-large" href="mailto:pantheontechnology2022@gmail.com"><i class="fa fa-envelope"> - Click to eMail us</a></p></i>
+    <p><a class="w3-text-blue-grey w3-large" href="mailto:myles.hoult@pantheontechnology.co.uk"><i class="fa fa-envelope"> - Click to eMail us</a></p></i>
     </div>
     <div class="w3-half">
         <br><br>
