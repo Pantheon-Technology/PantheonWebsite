@@ -8,6 +8,7 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="icon" href = "/Images/Logo.png">
 
 <style>
 body,h1,h2,h3,h4,h5,h6 {font-family: "Trirong", serif}
@@ -110,31 +111,31 @@ img {vertical-align: middle;}
   </div>
 </header>
 
-<!-- Promo Section - "We know design" -->
+<!-- ABOUT -->
 <div class="w3-container w3-light-grey" style="padding:128px 16px" id="about">
   <div class="w3-row-padding">
-  <h3 class="w3-center">ABOUT THE COMPANY</h3>
+  <h3 class="w3-center">ABOUT OUR BUSINESS</h3>
   <p class="w3-center w3-large"><b>Pantheon Technology is a Crosby owned business dedicated to enhancing the online presence of fellow Merseyside business owners!</b></p>
   <div class="w3-row-padding w3-center" style="margin-top:64px">
     <div class="w3-quarter">
       <i class="fa fa-desktop w3-margin-bottom w3-jumbo w3-center"></i>
-      <p class="w3-large">Web Developement</p>
-      <p>Websites can provide your customers with another way to interact with your business. Behind every good business is a great website, request a quote from us today!</p>
+      <p class="w3-large">Website Developement</p>
+      <p>Websites can provide your customers with another way to interact with your company. Behind every good business is a great website, request a quote from us today!</p>
     </div>
     <div class="w3-quarter">
       <i class="fa fa-heart w3-margin-bottom w3-jumbo"></i>
       <p class="w3-large">Social Media Engagement</p>
-      <p>Social media plays a key role in the way business is done today, we can help you boost your business' credibility through social media. We can give your company the boost it needs!</p>
+      <p>Social media plays a key role in the way business is done today, we can help you boost your company' credibility through social media. We can give your business the boost it needs!</p>
     </div>
     <div class="w3-quarter">
       <i class="fa fa-diamond w3-margin-bottom w3-jumbo"></i>
       <p class="w3-large">Logo Designs</p>
-      <p>Your logo is at the forefront of your business, customers will see your logo and associate your companies characteristics with it! We can assist with that.</p>
+      <p>Your logo is at the forefront of your business, customers will see your logo and associate your company' characteristics with it! We can assist with that.</p>
     </div>
     <div class="w3-quarter">
       <i class="fa fa-cog w3-margin-bottom w3-jumbo"></i>
       <p class="w3-large">Website Maintainance</p>
-      <p>Website maintainance is just as cruicial as the design and development! No website will not run as intended if poorly maintained. We can take care of that for you.</p>
+      <p>Website maintainance is just as cruicial as the design and development! A website will not run as intended if poorly maintained. We can assist with that.</p>
     </div>
   </div>
   </div>
@@ -187,7 +188,7 @@ img {vertical-align: middle;}
   </div>
 
   <div class="w3-third" style="padding:16px 16px">
-<h5 class="w3-center">Electric Avenue Tattoo</h5>
+<h5 class="w3-center">Tattoo Template</h5>
     <img src="Pictures/ElectricAvenueTattoo.jpg" style="width:100%">
     <p><a class="w3-button w3-blue w3-block" href="http://electricavenuetattoo.co.uk/">Click to View This Template!</a></p>
   </div>
