@@ -78,8 +78,8 @@ img {vertical-align: middle;}
     <a href="#home" class="w3-bar-item w3-button w3-wide"><img class="w3-image w3-round" src="Pictures/Navbarlogo.png" alt="logo" width="50" height="50"> Pantheon Technology</a>
     <!-- Right-sided navbar links -->
     <div class="w3-right w3-hide-small">
-      <a href="#about" class="w3-bar-item w3-button">ABOUT</a>
-      <a href="#work" class="w3-bar-item w3-button"><i class="fa fa-th"></i> WORK</a>
+      <a href="#about" class="w3-bar-item w3-button"> ABOUT</a>
+      <a href="#work" class="w3-bar-item w3-button"> WORK</a>
       <a href="#contact" class="w3-bar-item w3-button"> CONTACT</a>
     </div>
     <!-- Hide right-floated links on small screens and replace them with a menu icon -->
@@ -104,7 +104,7 @@ img {vertical-align: middle;}
   <div class="w3-display-left" style="padding:48px">
     <span class="w3-jumbo w3-text-black w3-hide-small"><strong>Pantheon Technology</strong></span><br>
     <span class="w3-xxlarge w3-hide-large w3-hide-medium">Pantheon Technology</span><br>
-    <span class="w3-xlarge w3-text-black"><b>Create your business' future, today!</b></span>
+    <span class="w3-xlarge w3-text-black"><b>Software solutions made accessible.</b></span>
   </div> 
   <div class="w3-display-bottomleft w3-text-black w3-xlarge" style="padding:12px 24px">
   <p><a href="#about" class="w3-button w3-black w3-padding-large w3-large w3-margin-top w3-opacity w3-hover-opacity-off">Learn about Pantheon</a></p>      
@@ -115,102 +115,111 @@ img {vertical-align: middle;}
 <div class="w3-container w3-light-grey" style="padding:128px 16px" id="about">
   <div class="w3-row-padding">
   <h3 class="w3-center">ABOUT OUR BUSINESS</h3>
-  <p class="w3-center w3-large"><b>Pantheon Technology is a Crosby owned business dedicated to enhancing the online presence of fellow Merseyside business owners!</b></p>
+  <p class="w3-center w3-large"><b>Pantheon Technology is a Merseyside owned software development business dedicated to creating software to enhance the service of fellow Merseyside business owners!</b></p>
   <div class="w3-row-padding w3-center" style="margin-top:64px">
+  <div class="w3-quarter">
+    </br>
+    </div>    
     <div class="w3-quarter">
       <i class="fa fa-desktop w3-margin-bottom w3-jumbo w3-center"></i>
       <p class="w3-large">Website Developement</p>
-      <p>Websites can provide your customers with another way to interact with your company. Behind every good business is a great website, request a quote from us today!</p>
-    </div>
-    <div class="w3-quarter">
-      <i class="fa fa-heart w3-margin-bottom w3-jumbo"></i>
-      <p class="w3-large">Social Media Engagement</p>
-      <p>Social media plays a key role in the way business is done today, we can help you boost your company' credibility through social media. We can give your business the boost it needs!</p>
-    </div>
-    <div class="w3-quarter">
-      <i class="fa fa-diamond w3-margin-bottom w3-jumbo"></i>
-      <p class="w3-large">Logo Designs</p>
-      <p>Your logo is at the forefront of your business, customers will see your logo and associate your company' characteristics with it! We can assist with that.</p>
+      <p>Websites can provide your customers with another way to interact with your company. It can also offer your customers additional services, such as our <a href="#pricing"> Athena Ecommerce system!</a> that allows you to sell your products online!</p>
     </div>
     <div class="w3-quarter">
       <i class="fa fa-cog w3-margin-bottom w3-jumbo"></i>
-      <p class="w3-large">Website Maintainance</p>
-      <p>Website maintainance is just as cruicial as the design and development! A website will not run as intended if poorly maintained. We can assist with that.</p>
+      <p class="w3-large">Software Development</p>
+      <p>We also offer software packages that can increase the efficiency of your day day-to-day operations, such as our <a href="#pricing">File Upload and Download system</a> which allows you to manage your file distribution securely.</p>
+    </div>
+    <div class="w3-quarter">
+      <br>
+    </div>   
+  </div>
+  </div>
+</div>
+
+<!-- Pricing Section -->
+<div class="w3-container w3-center w3-dark-grey" style="padding:128px 16px" id="pricing">
+  <h3>Our Services</h3>
+  <div class="w3-row-padding" style="margin-top:64px">
+    <div class="w3-third w3-section">
+      <ul class="w3-ul w3-white w3-hover-shadow">
+        <li class="w3-blue"><img src="Pictures/E-CommerceLogoNoBackground.png" style="width:40%"><h4>Using this package you can start <b>selling your products online!</b> This package comes with:</h4></li>
+        <li class="w3-padding-16">Design up to <b>8</b> custom pages</li>
+        <li class="w3-padding-16">The ability to <b>add, remove, and manage</b> website stock.</li>
+        <li class="w3-padding-16">View your customers orders and the order details.</li>
+        <li class="w3-padding-16"><b>Free</b> Domain, website data encryption and business email.</li>
+        <li class="w3-padding-16">
+          <h4> Only </h4>
+          <h2 class="w3-wide">£ 50</h2>
+          <p><span class="w3-opacity">per month</span></p>
+          <p><span>£250 setup</span></p>
+        </li>
+        <li class="w3-light-grey w3-padding-24">
+          <a class="w3-button w3-black w3-padding-large" href="mailto:myles.hoult@pantheontechnology.co.uk/?subject=I have an enquiry about the Athena E-Commerce package!">Enquire</a>
+        </li>
+      </ul>
+    </div>
+    <div class="w3-third w3-section">
+      <ul class="w3-ul w3-white w3-hover-shadow">
+        <li class="w3-red w3-padding-32"><h3>File Upload/Download System</h3><h4>With this service, you can make file transfer between your employees straightforward. This package comes with:</h4></li>
+        <li class="w3-padding-16">The ability to <b>upload, view, remove, and manage</b> your files.</li>
+        <li class="w3-padding-16">Create and manage accounts.</li>
+        <li class="w3-padding-16"><b>Free</b> Domain, website data encryption and business email.</li>
+        <li class="w3-padding-16">
+          <h4> Only </h4>
+          <h2 class="w3-wide">£ 1.30</h2>
+          <p><span class="w3-opacity">per user per month</span></p>
+          <p><span>£150 setup</span></p>
+        </li>
+        <li class="w3-light-grey w3-padding-24">
+          <a class="w3-button w3-black w3-padding-large" href="mailto:myles.hoult@pantheontechnology.co.uk/?subject=I have an enquiry about the File system!">Enquire</a>
+        </li>
+      </ul>
+    </div>
+    <div class="w3-third w3-section">
+      <ul class="w3-ul w3-white w3-hover-shadow">
+        <li class="w3-green w3-padding-32"><h3>Website Development</h3><p>Already have a website? No problem, we can make changes to your existing site.</p></li>
+        <li class="w3-padding-16">Design consultation</li>
+        <li class="w3-padding-16">3 Reviews</li>
+        <li class="w3-padding-16">Design implementation</li>
+        <li class="w3-light-grey w3-padding-24">
+          <a class="w3-button w3-black w3-padding-large" href="mailto:myles.hoult@pantheontechnology.co.uk/?subject=I have an enquiry about website development on my existing site!">Enquire</a>
+        </li>
+      </ul>
     </div>
   </div>
-  </div>
 </div>
 
-<!-- Promo Section "Statistics" -->
-<div class="w3-container w3-row w3-center w3-padding-64 w3-dark-grey">
-  <div class="w3-third">
-    <span class="w3-xxlarge">20+</span>
-    <br>Successfully completed projects
-  </div>
-  <div class="w3-third">
-    <span class="w3-xxlarge">3+</span>
-    <br>Years of experience
-  </div>
-  <div class="w3-third">
-    <span class="w3-xxlarge">1000+</span>
-    <br>hours of programming
-  </div>
-</div>
-
-<!-- Work Section -->
-<div class="w3-container" style="padding:8px 8px" id="work">
-  <h3 class="w3-center"><b>OUR WORK</b></h3>
-
-<div class="w3-third" style="padding:16px 16px">
-<h5 class="w3-center">Cafe Template 1</h5>
-    <img src="Pictures/CafeTemplate1.jpg" style="width:100%">
-    <p><a class="w3-button w3-blue w3-block" href="CafeTemplate1.php">Click to View This Template!</a></p>
-  </div>
+<div class="w3-container w3-row w3-center w3-padding-64 w3-white">
+  <h1> Trusted By </h1>
 
   <div class="w3-third" style="padding:16px 16px">
-<h5 class="w3-center">Cafe Template 2</h5>
-    <img src="Pictures/CafeTemplate2.jpg" style="width:100%">
-    <p><a class="w3-button w3-blue w3-block" href="CafeTemplate2.php">Click to View This Template!</a></p>
-    <br>
-  </div>
-
-  <div class="w3-third" style="padding:16px 16px">
-<h5 class="w3-center">Cafe Template 3</h5>
-    <img src="Pictures/CafeTemplate3.jpg" style="width:100%">
-    <p><a class="w3-button w3-blue w3-block" href="CafeTemplate3.php">Click to View This Template!</a></p>
-    <br>
-  </div>
-
-  <div class="w3-third" style="padding:16px 16px">
-<h5 class="w3-center">Portfolio Template 1</h5>
-    <img src="Pictures/PortfolioTemplate1.jpg" style="width:100%">
-    <p><a class="w3-button w3-blue w3-block" href="PortfolioTemplate1.php">Click to View This Template!</a></p>
-  </div>
-
-  <div class="w3-third" style="padding:16px 16px">
-<h5 class="w3-center">Tattoo Template</h5>
+<h5 class="w3-center">Electric Avenue Tattoo</h5>
     <img src="Pictures/ElectricAvenueTattoo.jpg" style="width:100%">
-    <p><a class="w3-button w3-blue w3-block" href="http://electricavenuetattoo.co.uk/">Click to View This Template!</a></p>
+    <p><a class="w3-button w3-blue w3-block" href="http://electricavenuetattoo.co.uk/" target="_blank">Click to View This Page!</a></p>
   </div>
 
   <div class="w3-third" style="padding:16px 16px">
-<h5 class="w3-center">Startup Business Template 1</h5>
-    <img src="Pictures/NewShopTemplate.jpg" style="width:100%">
-    <p><a class="w3-button w3-blue w3-block" href="NewShopTemplate.php">Click to View This Template!</a></p>
+<h5 class="w3-center">Prosperify</h5>
+    <img src="Pictures/Prosperify.jpg" style="width:100%">
+    <p><a class="w3-button w3-blue w3-block" href="https://www.theprosperifyteam.com/" target="_blank">Click to View This Page!</a></p>
   </div>
-
+  <div class="w3-third" style="padding:16px 16px">
+<h5 class="w3-center">Positive Progress Tuition</h5>
+    <img src="Pictures/PositiveProgress.jpg" style="width:100%">
+    <p><a class="w3-button w3-blue w3-block" href="https://positive-progress.co.uk/" target="_blank">Click to View This Page!</a></p>
+  </div>
 </div>
-
 
 <div id="contact" class="w3-container w3-light-grey" style="padding:128px 16px">
   <div class="w3-row-padding">
     <div class="w3-col m6 w3-center">
-      <h3>Request a quote</h3>
+      <h3>General Enquiries</h3>
       <p>We're only an email away.</p>
-      <h2><a class="w3-margin-right w3-margin-bottom" href="mailto:myles.hoult@pantheontechnology.co.uk/?subject=Enhance my online presence today!">Welcome@PantheonTechnology.co.uk</a></h2>
+      <h2><a class="w3-margin-right w3-margin-bottom" href="mailto:myles.hoult@pantheontechnology.co.uk/?subject=I have an enquiry!">Welcome@PantheonTechnology.co.uk</a></h2>
       </div>
     <div class="w3-col m6">
-    <img class="w3-image w3-round-large" src="Pictures/Contact.jpeg" alt="Office" width="700" height="394">
+    <img class="w3-image w3-round-large" src="Pictures/Contact.jpeg" alt="contact" width="700" height="394">
     </div>
   </div>
 </div>
